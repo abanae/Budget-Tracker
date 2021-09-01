@@ -32,9 +32,8 @@ Cloud Application Platform:
 
 
 ## Usage:
-1. Seed file by using, `npm run seed`. 
-2. Run the app by using, `npm start`. 
-3. Navigate to http://localhost:3001/ in browser or  POSTMAN.
+1. Run the app by using, `npm start`. 
+2. Navigate to http://localhost:3001/ in browser or  POSTMAN.
 
 
 
